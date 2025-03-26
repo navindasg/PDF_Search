@@ -45,10 +45,9 @@ pip install -r requirements.txt
 ```
 
 ## Running the Code
-- Place all of the desired PDFs in the folder  (Some testing files are in there and can be removed)
-- Run 
-- Run 
-- Run
+- Place all of the desired PDFs in the folder pdf_input (Some testing files are in there and can be removed)
+- Run pdf_parser.py
+- Run main.py
 
 ## Future Steps
 - I plan to do some more advanced testing and according prompt tuning.
